@@ -13,7 +13,7 @@ MediConnect is a simple Python-based application designed to help hostel student
 
 - Python
 - Tkinter (for GUI)
-- Basic file handling (or SQLite if applicable)
+- Basic SQL 
 
 ## 🚀 How to Run
 
